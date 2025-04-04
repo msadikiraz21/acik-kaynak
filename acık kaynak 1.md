@@ -8,7 +8,14 @@
 
         
 <br>
-2. “grep” komutuna ilişkin detaylı bilgileri görüntülemek için kullanılan komutu yazınız?
+
+---
+
+## 2. "grep" komutuna ilişkin detaylı bilgileri görüntülemek için kullanılan komut:
+**Komut:**
+
+        man grep
+        
 <br>
 Komut:
 <br><br>
