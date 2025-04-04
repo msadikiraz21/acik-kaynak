@@ -5,12 +5,12 @@ Bu proje, temel komut satırı becerilerini kullanarak dokümanlar oluşturma, d
 
 ### Görev 1: "okul.txt" Dosyasının Oluşturulması
 - **Amaç**: Masaüstünde "okul.txt" adında bir dosya oluşturmak, içerisine ad-soyad ve bölüm bilgilerini eklemek, kelime ve karakter sayısını bulmak.
+- 
 - **Komutlar**:
-  ```bash
-  cd Masaüstü
-  touch okul.txt
-  echo "İsim Soyisim Bölüm" > okul.txt
-  cat okul.txt
-  wc -c okul.txt
-  wc -w okul.txt
+-     cd Masaüstü
+      touch okul.txt
+      echo "İsim Soyisim Bölüm" > okul.txt
+      cat okul.txt
+      wc -c okul.txt
+      wc -w okul.txt
   
